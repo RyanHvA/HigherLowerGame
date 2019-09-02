@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Higher Lower</string>
+    <string name="textapplication">Guess if the next throw is going to be lower, equal or higher.</string>
+    <string name="textlastthrow">Last throw: %d</string>
+    <string name="textCorrect">Correct</string>
+    <string name="textIncorrect">Incorrect</string>
+
+    <string name="equals">Equals</string>
+    <string name="lower">Lower</string>
+    <string name="higher">Higher</string>
+
+    <string name="image_of_dice">Image of dice</string>
+</resources>
